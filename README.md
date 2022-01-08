@@ -1,0 +1,2 @@
+# Cricket-Match-Highlight-Generation
+Generating the highlights based upon 2 approaches: 1. Non Machine Learning Approach - Using the sound intensity levels. Divided the entire match video into smaller chunks and included chunks which had sound intensity above a certain level and finally combining all such chunks. 2. Machine Learning Approach - Using the commentary analysis of the entire match and dividing each ball as an interesting event and non interesting event and then generating highlights from the balls defined as interesting event.
